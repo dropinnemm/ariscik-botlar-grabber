@@ -10,6 +10,7 @@ alt tarafta fotoğraflar ss olarak eklenmiştir.
 
 
 ![image](https://cdn.discordapp.com/attachments/1013394455501492285/1018497039937589249/unknown.png)
+\n
 ![image](https://cdn.discordapp.com/attachments/1013394455501492285/1018497040302485604/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1013394455501492285/1018497040554147950/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/1013394455501492285/1018497040998748220/unknown.png)
