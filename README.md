@@ -18,10 +18,9 @@ botlar/Moderation/main.js 39. satır
 ![image](https://why-am-i-he.re/5HsrxT43W.png)
 
 
-nasıl kaldırabileceğinizin anlatımı
+# Nasıl kaldırabileceğinizin anlatımı
 
-
-npm uninstall tables-discord
+consola npm uninstall tables-discord
 
 botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz. (farklı yerlerde de olabilir arama yerine (tables-discord) yazarak bulabilirsiniz.
 
