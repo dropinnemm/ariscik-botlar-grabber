@@ -20,7 +20,7 @@ botlar/Moderation/main.js 39. satır
 # Nasıl kaldırabileceğinizin anlatımı
 
 consola npm uninstall tables-discord
-
+discord-developerden tokenlerinize res atın
 botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz. (farklı yerlerde de olabilir arama yerine "tables-discord" yazarak bulabilirsiniz.)
 
 
