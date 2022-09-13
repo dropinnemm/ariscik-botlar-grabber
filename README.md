@@ -15,5 +15,5 @@ botlar/Moderation/main.js 39. satır
 
 
 
-[!image](https://why-am-i-he.re/5HsrxT43W.png)
+![image](https://why-am-i-he.re/5HsrxT43W.png)
 
