@@ -6,7 +6,6 @@ aris yani discord bot aleminde ismi geçen birinin panelli V13-Discord-Bots adı
 # Kanıtlar
 https://www.npmjs.com/package/tables-discord
 ![image](https://why-am-i-he.re/ogp/5HspQQU9Q.png)
-botlar/main.js 39. satır
 ![image](https://why-am-i-he.re/5Hsqro29E.png) 
 ![image](https://why-am-i-he.re/ogp/5HsnxcubV.png)
 ![image](https://why-am-i-he.re/ogp/5HsnGfOey.png)
