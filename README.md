@@ -21,6 +21,6 @@ botlar/Moderation/main.js 39. satır
 
 consola npm uninstall tables-discord
 
-botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz. (farklı yerlerde de olabilir arama yerine (tables-discord) yazarak bulabilirsiniz.
+botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz. (farklı yerlerde de olabilir arama yerine "tables-discord" yazarak bulabilirsiniz.)
 
 
