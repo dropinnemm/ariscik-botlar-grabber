@@ -23,7 +23,6 @@ nasıl kaldırabileceğinizin anlatımı
 
 npm uninstall tables-discord
 
-botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz.
-
+botlar/Moderation/main.js 39. satır yerine geliyoruz ve 42. satura kadar siliyoruz. (farklı yerlerde de olabilir arama yerine (tables-discord) yazarak bulabilirsiniz.
 
 
